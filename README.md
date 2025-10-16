@@ -79,7 +79,7 @@ DevOps Engineer:           Handles deployment, monitoring, and scaling of the ba
 QA Engineer:               Ensures the backend functionalities are thoroughly tested and meet quality standards.
 
 
-Technology stack  ::
+Technology stack   ::
 Django:                  A high-level Python web framework used for building the RESTful API.
 Django REST Framework:   Provides tools for creating and managing RESTful APIs.
 PostgreSQL:              A powerful relational database used for data storage.
