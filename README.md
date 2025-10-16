@@ -3,7 +3,7 @@
 front end - reactjs
 back end - expressjs
 
-
+UI/UX Design Planning::
 Key features:
 -Property search and filtering
 -Detailed property viewing
@@ -47,6 +47,8 @@ Site links
 Company information
 Social media links
 Copyright information
+
+
 
 
 
