@@ -7,6 +7,8 @@ import Checkout from './pages/Checkout'
 
 function App() {
   return (
+
+   
     <BrowserRouter>
       <Navbar />
       <Routes>
@@ -15,6 +17,8 @@ function App() {
         <Route path="/checkout" element={<Checkout />} />
       </Routes>
     </BrowserRouter>
+
+ 
   )
 }
 

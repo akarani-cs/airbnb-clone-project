@@ -25,8 +25,6 @@ const categories = [
   { label: "Countryside", icon: Trees },
   { label: "Villa", icon: Building2 },
   { label: "Tropical", icon: Mountain },
-  { label: "New", icon: Mountain },
-  { label: "Amazing pool", icon: Waves },
   { label: "Beach house", icon: Waves },
   { label: "Island", icon: Ship },
   { label: "Camping", icon: Tent },
