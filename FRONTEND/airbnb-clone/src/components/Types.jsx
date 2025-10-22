@@ -45,7 +45,7 @@ export default function Types() {
 
   return (
     <div className="w-full border-b bg-white">
-      <div className="flex space-x-8 overflow-x-auto no-scrollbar px-6 py-4">
+    <div className="flex space-x-8 overflow-x-auto scrollbar-hide px-6 py-4">
         {categories.map(({ label, icon: Icon }) => (
           <button
             key={label}
